@@ -1,0 +1,9 @@
+# 3dreact-threrjs
+
+no.1 )  npm create vite@latest ./ -- --template react
+
+no2 ) npm installnpm install -D tailwindcss
+
+no3 ) npx tailwindcss init
+
+no4 ) npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertucal-timeline-component @emailjs/browser framer-motion react-router-dom
